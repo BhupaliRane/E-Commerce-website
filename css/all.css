@@ -1,0 +1,27 @@
+form{
+    height: auto;
+    width: 50%;
+    box-shadow: 1px 1px 10px #2b2929;
+    margin: 5% 0% 5% 25%;
+    border-radius: 10px;
+    padding: 4% 4% 2% 5%;
+    font-size: 20px;
+    font-family: "Playfair Display", serif;
+    color: #2b2929;
+}
+
+form input ,form textarea, form select{
+    width: 95%;
+    font-size: 15px;
+    border: 0;
+    border-bottom: 1px solid #ced4da;
+    font-family: "Playfair Display", serif;
+}
+
+form button{
+    width: 20%;
+    border-radius: 20px;
+    background: #ed8f0c;
+    font-size: 15px;
+    margin-left: 35%;
+}

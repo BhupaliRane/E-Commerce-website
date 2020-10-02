@@ -1,0 +1,15 @@
+#order{
+    width: 10%;
+    border-radius: 20px;
+    background: #ed8f0c;
+    font-size: 15px;
+    margin-left: 45%;
+}
+
+table{
+    height: auto;
+    width: 100%; 
+    padding: 4% 4% 4% 4%;
+    font-size: 1.25em;
+    font-family: "Playfair Display", serif;
+}

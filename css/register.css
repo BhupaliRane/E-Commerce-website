@@ -1,0 +1,41 @@
+#userregform{
+    height: auto;
+    width: 35%;
+    box-shadow: 1px 1px 10px #2b2929;
+    margin: 4% 0% 0% 33%;
+    border-radius: 20px;
+    padding: 4% 4% 1% 5%;
+    font-size: 1.25em;  
+    font-family: "Playfair Display", serif;
+}
+
+header{
+    font-size: 3em;
+    color: #ed8f0c;
+    text-shadow: 2px 2px #2b2929;
+    margin: 3% 0% 0% 42%;
+    font-family: "Playfair Display", serif; 
+}
+
+input , textarea{
+    width: 95%;
+    color: #2b2929;
+    font-size: 15px;
+    font-family: "Playfair Display", serif;
+    border: 0;
+    border-bottom: 1px solid #ced4da;
+    transition: black .15s ease-in-out,2px .15s ease-in-out;
+}
+
+button{
+    width: 25%;
+    border-radius: 20px;
+    background: #ed8f0c;
+    font-size: 15px;
+    margin-left: 35%;
+}
+
+.checkbox{
+    margin-top: 7%;
+    width: 5%;
+}
