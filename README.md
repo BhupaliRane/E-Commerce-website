@@ -1,2 +1,2 @@
 # E-Commerce-website
-Academic project (shopping website)
+Shopping website (Academic project with 3 team members)
